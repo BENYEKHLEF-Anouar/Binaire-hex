@@ -1,1 +1,1 @@
-# Binaire-hex
+# Logique binaire
